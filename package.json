@@ -6,7 +6,8 @@
     "version": "3.9.0"
   },
   "scripts": {
-    "build": "echo \"deploy hexo ...\""
+    "build": "echo \"deploy hexo ...\"",
+    "generate": "hexo generate"
   },
   "dependencies": {
     "hexo": "^3.9.0",
